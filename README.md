@@ -460,9 +460,16 @@
             </div>
         </div>
 
-        <button class="mn-btn btn-danger" onclick="systemLogout(event)"><i class="fas fa-sign-out-alt"></i> TERMINATE SYSTEM</button>
+                <button class="mn-btn btn-danger" onclick="systemLogout(event)">
+            <i class="fas fa-sign-out-alt"></i> TERMINATE SYSTEM
+        </button>
     </div>
 
+    <!-- Powered By Section -->
+    <div class="mn-footer-credit" style="text-align: center; margin-top: 20px; padding: 10px; font-family: sans-serif; font-size: 14px; color: #888;">
+        <span>Powered by <strong>Maa Nirmala DJ</strong></span>
+    </div>
+    
     <!-- ========================================================================= -->
     <!-- VIEW 3: ADMIN TARGETED SESSION -->
     <!-- ========================================================================= -->
