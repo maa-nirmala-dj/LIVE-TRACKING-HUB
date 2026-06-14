@@ -915,6 +915,17 @@
             <a href="https://maa-nirmala-dj.github.io/WELCOME-TO-MND-HUB/" target="_blank" class="mn-btn btn-gold" style="text-decoration: none; background: linear-gradient(135deg, var(--brand-purple) 0%, #9333ea 100%); color:#fff; box-shadow: 0 5px 20px rgba(124,58,237,0.4); border:none;">
                 <i class="fas fa-layer-group"></i> MND HUB PORTAL
             </a>
+            <a href="https://maa-nirmala-dj.github.io/MND-Pay/" target="_blank" class="mn-btn btn-gold" style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; padding: 14px 28px; border-radius: 12px; text-decoration: none; background: linear-gradient(135deg, #022c22 0%, #059669 100%); color: #ffffff; box-shadow: 0 8px 20px rgba(5,150,105,0.3); border: 1px solid #34d399; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; text-shadow: 0 2px 4px rgba(0,0,0,0.3); transition: all 0.3s ease;">
+    <i class="fas fa-wallet"></i> MND PAY
+</a>
+
+<a href="https://maa-nirmala-dj.github.io/MND-ASSETS/" target="_blank" class="mn-btn btn-gold" style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; padding: 14px 28px; border-radius: 12px; text-decoration: none; background: linear-gradient(135deg, #172554 0%, #2563eb 100%); color: #ffffff; box-shadow: 0 8px 20px rgba(37,99,235,0.3); border: 1px solid #60a5fa; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; text-shadow: 0 2px 4px rgba(0,0,0,0.3); transition: all 0.3s ease;">
+    <i class="fas fa-cubes"></i> MND ASSETS
+</a>
+
+<a href="https://maa-nirmala-dj.github.io/WELCOME-TO-MND-HUB/" target="_blank" class="mn-btn btn-gold" style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; padding: 14px 28px; border-radius: 12px; text-decoration: none; background: linear-gradient(135deg, #18181b 0%, #27272a 100%); color: #d4af37; box-shadow: 0 8px 20px rgba(212,175,55,0.2); border: 1px solid #d4af37; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; text-shadow: 0 2px 4px rgba(0,0,0,0.5); transition: all 0.3s ease;">
+    <i class="fas fa-layer-group"></i> ABOUT IT
+</a>
         </div>
         <div class="app-footer">Powered by Maa Nirmala DJ</div>
     </div>
